@@ -1,0 +1,117 @@
+url,title,text
+http://spectrum.ieee.org/riskfactor/computing/it/it-hiccups-of-the-week-keyboard-errors-lead-to-replyallcalypse-mans-arrest-and-trading-snafu,"IT Hiccups of the Week: Keyboard Errors Lead to Replyallcalypse, Man’s Arrest and Trading Snafu","We start off this week’s review of IT-related “ooftas” with one that most of us have probably done at one time or another: accidentally hitting “reply-all” to an email. However, we probably never did it when the email ended up being sent to nearly 40 000 people.
+
+That's exactly what happened last week when New York University sophomore Max Wiseltier attempted to forward an informational email to his mother from the school’s bursar office which described the use of a new, electronic tuition form but Wiseltier hit reply-all instead. Typically, nothing would have happened since the email list the university normally uses for its general distribution emails to students does not allow reply-all to sent messages. However, in this case, the NYU Student Resource center which sent out the email magnified Wiseltier's mistake by accidentally using a distribution list that allowed reply-alls.
+
+So, Wiseltier’s email, in which he asked his mother “do you want me to do this?” was sent out to all 39,979 NYU students. You can imagine what happened next. The university eventually ended the ever growing number of responding emails the next day, but not before Wiseltier and his “Replyallcalypse,” as it was dubbed, reached celebrity status.
+
+A few years ago, a similar error at the U.S. Department of Homeland Security caused a security ruckus.
+
+Unlike Wiseltier’s case, another keyboard error brought nothing but grief for a Catholic deacon in Des Moines, Iowa, who was out delivering food to a homebound person, a story in the Des Moines Register reported. The deacon, Quan Tong, was sitting in his car outside the homebound person’s home when a police car passed by and thought, for whatever reasons, it looked suspicious. The police officer ran Tong’s plates which showed that Tong’s license was revoked. The officer arrested Tong, who spent the next six hours in jail until his wife could bail him out.
+
+For some unexplained reason, a data entry error at Iowa’s Department of Transportation made it appear that Tong’s license had indeed been revoked. But that information was incorrect. The story in Register didn’t say how the error was discovered, but the police, the county attorney, and the DoT have all apologized to Tong for the mistake. They are also working on returning Tong’s bail money and car impound fees, as well as trying to ensure that all traces of his arrest are removed from Iowa’s Courts Online database.
+
+Another unexplained problem—most likely another keyboard-related error—caused the Chicago Mercantile Exchange Group (CME, which operates the world's leading derivatives market) to issue an erroneous Deliverable Commodities Under Registration Report last Thursday. According to a CME press release, the report, which commodity traders use to make decisions about their trading positions, indicated that 164 wheat shipping certificates had been registered for delivery with the Chicago Board of Trade on Wednesday. The report omitted the fact that there were an additional 2 000 contracts that had been registered with the trade board on Wednesday. The CME corrected its error about 2 hours later, but by then, the damage was done.
+
+CME announced that it would “assume responsibility for actual losses associated with this reporting error.” It didn’t apologize for the error or promise that it wouldn't happen again, however. I guess the CME assumes that given all the recent stock exchange related errors, an apology wouldn't be believed anyway.
+
+In another exchange-related error, the Wall Street Journal reported on Friday that a computer error two days earlier caused Nasdaq OMX Group Inc.'s (NDAQ) system “to wildly overstate the size of an order for Swedish stock-index futures.” The error caused Nasdaq to halt its index futures and options trading on the Stockholm market for the day. The WSJ story says a “trader entered an order to buy or sell six OMX30 futures contracts expiring in December [but] because of a 'bug' in Nasdaq’s system that disseminates information to customers’ trading applications, the order showed up as 4.2 billion contracts instead.” The bug was fixed a few hours later.
+
+Another programming error is causing holiday season heartburn for hundreds of non-profits and local governments in South Carolina. According to a story at television station WJBF, a Department of Employment and Workforce computer program incorrectly accounted for the days which unemployed workers were allowed to file for benefits. As a result, employers were not billed for their portion of unemployment benefits the Department of Employment and Workforce paid out to the laid off workers (some $542 000 out of the $8.6 million in total benefits paid). The state will be sending out bills for the amount owed by the non-profits and local governments very soon. Happy holidays!
+
+Finally, in a bit of better holiday season news, the Wyoming Tribune-Eagle reported that Cheyenne Light, Fuel and Power has fixed the billing error that caused it to over-charge 4664 of its customers a total of over $1 million. The affected customers were billed from January 2005 to October 2012 for a utility-related “franchise fee” that they exempt from having to pay. The error was discovered only after a customer complained about the fee being tacked on to his bill.
+
+The Tribune-Eagle reported that customers are receiving refunds averaging between $15 and $20 dollars, which means the fee probably amounted to less than 30 cents on a customer’s monthly bill. It explains why the affected customers never noticed it or just shrugged it off for the past seven years.
+
+The Eagle also said that Cheyenne Light found 232 customers that should have been paying the fee and were not. All those customers have reportedly already paid the company what was owed."
+http://spectrum.ieee.org/riskfactor/computing/it/who_might_be_spying_on_you,Who Might Be Spying on You?,"There were three interesting inter-related stories today, one appearing in the Wall Street Journal, one in the USA Today, and the third one in the LA Times. The USA Today story is about the warning being given by national security agencies to business executives and federal officials planning to attend the Beijing Olympic Games on the need for securing their laptops and other electronic devices. These unnamed agencies, it is claimed, are warning that Chinese agents are likely to attempt to steal secrets or plant malware in US visitors electronic devices in order to be able to hack into US computer networks.
+
+As I noted a short time ago, this is thought to have happened to Commerce Secretary Carlos M. Gutierrez's laptop on a trip to China last year.
+
+The Chinese state that the accusations are baseless fabrications.
+
+The Wall Street Journal's story is about the increasing demand for counter-spy technology. It says that in April of this year, ""car maker Porsche AG disclosed it had found a baby-monitoring device concealed behind the hotel sofa of its president and chief executive Wendelin Wiedeking, last fall during his trip to Wolfsburg, Germany, for meetings with executives at Volkswagen AG.""
+
+By one account, demands for counter-spy sweeps have increased by 25% per annum over the past two years, and that about 10% of the time, something is found.
+
+In addition, as told in the story,
+
+""Companies also are increasingly worried about economic and industrial espionage by foreign governments and companies. Kroll Inc., a risk-control consulting company that is a unit of insurance brokerage Marsh & McLennan Cos. Inc., says inquiries in Japan have doubled in the past year. Associate Managing Director David Nagata, who is based in Tokyo, counsels visitors to have their hotel rooms swept for listening devices prior to check-in and make sure they're secured from unauthorized entry. For super-secret matters, he suggests closed-circuit cameras to monitor hallway traffic and an alarm that beeps when someone approaches the room.""
+
+The story also notes that in spite of all these elaborate precautions, they're often ""undone by executives chatting on unsecured cellphones with Bluetooth headsets and tapping on unencrypted laptops.""
+
+The best laid plans ... which brings me to the LA Times story. This one is about a study released today by Verizon Communications Inc. claiming that two-thirds of the ""thefts of sensitive information from corporations occur when the victimized companies don't know what data they have, where they have it or who has access to it.""
+
+The study also claims that ""criminal gangs are targeting individuals inside call centers, because they have access to hundreds or thousands of companies."""
+http://spectrum.ieee.org/riskfactor/computing/it/massachusetts-tax-authorities-say-sorry-bad-computer-code,"Massachusetts Tax Authorities Say Sorry, Bad Computer Code","Flooding caused by heavy Spring rains resulted in seven Massachusetts counties - Bristol, Essex, Middlesex, Norfolk, Plymouth, Suffolk and Worcester - being declared a federal disaster area. Due to the timing, the state and federal governments allowed qualified taxpayers in those counties to postpone filing their taxes, i.e., from April 15 to May 11.
+
+In addition, a qualified taxpayer would be allowed to apply for a 6-month extension for filing his or her taxes from April 15 to May 11 as well. Completed taxes forms would still be due on 15 October 2010, per usual, however.
+
+As the notice at the Massachusetts Department of Revenue states:
+
+""During the time of this extension, no interest or penalties will accrue. However, a taxpayer that does not meet the extended May 11, 2010 due date will owe interest and penalties dating back to the original tax return or tax payment due date, which in most cases will be April 15, 2010.""
+
+Fair enough, and according to a story in today's Boston Globe, 520 taxpayers apparently took advantage of the tax filing extensions offered by the state.
+
+Their reward for doing so was a recent letter from the Department of Revenue informing them that they were, in fact, delinquent in filing their taxes and that they would have to pay 2 percent per month of the tax owed (I presume back to April 15th of this year).
+
+Ouch.
+
+Needless to say, this angered the affected taxpayers who called the Department of Revenue and demanded to know what the heck was going on.
+
+The Department of Revenue said, oops, it was all a big mistake, and nothing is owed after all. It also apologized ""for any inconvenience this may have caused.""
+
+The Globe says that the Department of Revenue blamed a ""software glitch"" for the notice. The Globe quotes a Department of Revenue spokesperson as saying:
+
+""The problem was unique to the fact that we had to stretch our system... We don't have a terribly flexible computer system.""
+
+Stretch the tax system?
+
+I may be overly suspicious of the Massachusetts Department of Revenue (it comes naturally from growing up in the state nicknamed ""Taxachusetts""), but I wonder how much effort was truly expended by the department to re-code a part of its tax system to account for this one-off tax filing extension.
+
+So far, no one is complaining that the IRS got it wrong, too."
+http://spectrum.ieee.org/riskfactor/computing/it/amazon-plays-santa-after-it-glitch-to-singapore-airlines-scrooge,"Amazon Plays Santa after IT Glitch, Singapore Airlines’ Plays Scrooge","This week’s edition of IT Hiccups focuses on the two different customer service reactions to IT errors, a nice one by Amazon UK and a not so nice one on the part of Singapore Airlines.
+
+According to the Daily Mail, a student at the University of Liverpool by the name of Robert Quinn started to receive a plethora of packages from Amazon at his family’s home in Bromley, South London that he hadn’t ordered. The 51 packages included a baby buggy, a Galaxy Pro tablet, a 55-inch 3-D Samsung television set, a Sony PSP console, an electric wine cooler, a leaf blower, a bed, a bookcase and a chest of drawers, among other things. In total, the 51 items were worth some £3,600 (US $5,650).
+
+The Daily Mail reported that Quinn called up Amazon and asked what was going on. According to Quinn, Amazon told him that people must be “gifting” the items to him. That surprised Quinn, since he didn’t know the people who were supposedly gifting him the items. Quinn told the Mail that he speculated that there was some sort of computer glitch affecting the Amazon’s purchase return address labels, since the items all looked as though they were meant to be sent back to Amazon by their original purchasers.
+
+Quinn told the Mail:
+
+I was worried that people were losing out on their stuff so I phone Amazon again and said I’m happy to accept these gifts if they are footing the cost, but I’m not happy if these people are going to lose out. But Amazon said ‘it’s on us.
+
+The Mail checked with Amazon, who confirmed Quinn’s story. While not confirming that a computer problem affecting its return labels was the cause for the errant packages, Amazon didn’t go out of its way to deny it.
+
+Quinn, who is an engineering student, later told the Mail that packages were still arriving. Quinn indicated that he was going to give some of the items he has received to charity, and then sell the rest to fund “an ‘innovative’ new [electric] cannabis grinder” he was designing.
+
+Whereas Amazon played Santa, Singapore Airlines decided instead to take on the role of Scrooge last week. According to the Sydney Morning Herald, when Singapore Airlines uploaded its business class fares for trips from Australia to Europe into a global ticket distribution system, it instead mistakenly uploaded its economy fare prices. As a result, instead of paying US $5,000 for a business class ticket, travel agents sold over 900 tickets for $2,900 before Singapore Airlines fixed the problem.
+
+Singapore Airlines decided that its mispricing mistake wasn’t, in fact, its problem, but the travel agents’. The Herald reported that the airline, “told travel agents who sold the cheap tickets that they will have to seek the difference between the actual price and what they should have sold for from their customers, or foot the bill themselves,” if their customers want to fly in business class.
+
+Singapore Airlines admitted, according to a Fox News story, that while it had recently “recently reassigned a booking subclass originally designated to economy class bookings to be used for business class bookings from December 8, 2014,” which could cause confusion, “the airfare conditions for the fare clearly stated that it was only valid for economy class travel.” In other words, we may have screwed up, but the travel agents should have caught our error anyway.
+
+Scrooge would indeed be proud.
+
+Last year, both Delta and United Airlines decided to honor online fare errors, in the latter case even when fares were priced at $0.
+
+Update: The Daily Mail is now reporting that Singapore Airlines has decided to honor the mispriced tickets after all. Tiny Tim must be rejoicing.
+
+In Other News ….
+
+Coding Issues Forces 10,000 New York Rail Commuters to Buy New Fare Cards
+
+Microsoft Experiences Déjà vu Update cum Human Azure Error
+
+New $240 Million Ontario Welfare System Pays Out Too Much and Too Little
+
+New Jersey Social Services Glitch Causes Wrong Cash Payments
+
+Singapore Stock Exchange Suffers Third Outage of Year
+
+Air India Suffers Check-in Glitch
+
+Best Buy Website Crashes Twice on Black Friday
+
+Mazda Issues Recall to Fix Tire Pressure Monitoring Software
+
+Washington Health Insurance Exchange Glitches Continue"
